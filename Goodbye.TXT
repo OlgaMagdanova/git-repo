@@ -1,2 +1,1 @@
 Print ("Nice to meet you");
-Print ("Goodbye");
